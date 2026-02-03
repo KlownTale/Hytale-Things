@@ -4,7 +4,6 @@
 > (nombre del mob derivado del archivo `Drop_*.json`, sin extensión)
 
 > 📌 Imágenes ubicadas en `../images/`  
-> Tamaño uniforme: **48px**
 
 ---
 
@@ -64,7 +63,7 @@
 | Rabbit | <img src="../images/Rabbit.png" width="48"> |
 | Ram | <img src="../images/Ram.png" width="48"> |
 | Sheep | <img src="../images/Sheep.png" width="48"> |
-| Skrill | <img src="../images/Skrill.png" width="48"> |
+| Skrill | <img src="../images/Skirll.png" width="48"> |
 | Turkey | <img src="../images/Turkey.png" width="48"> |
 | Chicken_Undead | <img src="../images/Chicken Undead.png" width="48"> |
 | Cow_Undead | <img src="../images/Cow Undead.png" width="48"> |
