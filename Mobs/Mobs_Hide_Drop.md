@@ -1,75 +1,80 @@
-## ✅ Versión recomendada (tamaño uniforme con HTML)
+# 🧵 Hytale – Hide Drops por Mob
 
-> GitHub renderiza HTML en Markdown, así que esto funciona perfecto.
-> Cambia `width="64"` a `48` o `80` si quieres.
+> Relación **Mob → tipo de Hide**  
+> (nombre del mob derivado del archivo `Drop_*.json`, sin extensión)
 
-### 🟥 Heavy Hide
-
-| Mob | Preview |
-|---|---|
-| Bear_Grizzly | <img src="../images/mobs/Bear_Grizzly.png" width="64"> |
-| Bear_Polar | <img src="../images/mobs/Bear_Polar.png" width="64"> |
-| Crocodile | <img src="../images/mobs/Crocodile.png" width="64"> |
-| Emberwulf | <img src="../images/mobs/Emberwulf.png" width="64"> |
-| Rex_Cave | <img src="../images/mobs/Rex_Cave.png" width="64"> |
-| Yeti | <img src="../images/mobs/Yeti.png" width="64"> |
-| Mosshorn | <img src="../images/mobs/Mosshorn.png" width="64"> |
-| Trillodon | <img src="../images/mobs/Trillodon.png" width="64"> |
+📌 Las imágenes están en `../images/` (carpeta hermana de `mobs/`).  
+Tamaño uniforme usando HTML: **48px** (se ve bien y no revienta el README).
 
 ---
 
-### 🟧 Medium Hide
+## 🟥 Heavy Hide
 
 | Mob | Preview |
 |---|---|
-| Hyena | <img src="../images/mobs/Hyena.png" width="64"> |
-| Leopard_Snow | <img src="../images/mobs/Leopard_Snow.png" width="64"> |
-| Lizard_Sand | <img src="../images/mobs/Lizard_Sand.png" width="64"> |
-| Raptor_Cave | <img src="../images/mobs/Raptor_Cave.png" width="64"> |
-| Slug_Magma | <img src="../images/mobs/Slug_Magma.png" width="64"> |
-| Tiger_Sabertooth | <img src="../images/mobs/Tiger_Sabertooth.png" width="64"> |
-| Toad_Rhino | <img src="../images/mobs/Toad_Rhino.png" width="64"> |
-| Toad_Rhino_Magma | <img src="../images/mobs/Toad_Rhino_Magma.png" width="64"> |
-| Wolf_Black | <img src="../images/mobs/Wolf_Black.png" width="64"> |
-| Wolf_Outlander_Priest | <img src="../images/mobs/Wolf_Outlander_Priest.png" width="64"> |
-| Wolf_Outlander_Sorcerer | <img src="../images/mobs/Wolf_Outlander_Sorcerer.png" width="64"> |
-| Wolf_White | <img src="../images/mobs/Wolf_White.png" width="64"> |
-| Bison | <img src="../images/mobs/Bison.png" width="64"> |
-| Boar | <img src="../images/mobs/Boar.png" width="64"> |
-| Cow | <img src="../images/mobs/Cow.png" width="64"> |
-| Horse | <img src="../images/mobs/Horse.png" width="64"> |
-| Warthog | <img src="../images/mobs/Warthog.png" width="64"> |
-| Fen_Stalker | <img src="../images/mobs/Fen_Stalker.png" width="64"> |
-| Hound_Bleached | <img src="../images/mobs/Hound_Bleached.png" width="64"> |
-| Moose_Bull | <img src="../images/mobs/Moose_Bull.png" width="64"> |
-| Moose_Cow | <img src="../images/mobs/Moose_Cow.png" width="64"> |
+| Bear_Grizzly | <img src="../images/Bear_Grizzly.png" width="48"> |
+| Bear_Polar | <img src="../images/Bear_Polar.png" width="48"> |
+| Crocodile | <img src="../images/Crocodile.png" width="48"> |
+| Emberwulf | <img src="../images/Emberwulf.png" width="48"> |
+| Rex_Cave | <img src="../images/Rex_Cave.png" width="48"> |
+| Yeti | <img src="../images/Yeti.png" width="48"> |
+| Mosshorn | <img src="../images/Mosshorn.png" width="48"> |
+| Trillodon | <img src="../images/Trillodon.png" width="48"> |
 
 ---
 
-### 🟩 Light Hide
+## 🟧 Medium Hide
 
 | Mob | Preview |
 |---|---|
-| Molerat | <img src="../images/mobs/Molerat.png" width="64"> |
-| Rat | <img src="../images/mobs/Rat.png" width="64"> |
-| Camel | <img src="../images/mobs/Camel.png" width="64"> |
-| Chicken | <img src="../images/mobs/Chicken.png" width="64"> |
-| Chicken_Desert | <img src="../images/mobs/Chicken_Desert.png" width="64"> |
-| Goat | <img src="../images/mobs/Goat.png" width="64"> |
-| Mouflon | <img src="../images/mobs/Mouflon.png" width="64"> |
-| Pig | <img src="../images/mobs/Pig.png" width="64"> |
-| Rabbit | <img src="../images/mobs/Rabbit.png" width="64"> |
-| Ram | <img src="../images/mobs/Ram.png" width="64"> |
-| Sheep | <img src="../images/mobs/Sheep.png" width="64"> |
-| Skrill | <img src="../images/mobs/Skrill.png" width="64"> |
-| Turkey | <img src="../images/mobs/Turkey.png" width="64"> |
-| Chicken_Undead | <img src="../images/mobs/Chicken_Undead.png" width="64"> |
-| Cow_Undead | <img src="../images/mobs/Cow_Undead.png" width="64"> |
-| Pig_Undead | <img src="../images/mobs/Pig_Undead.png" width="64"> |
-| Antelope | <img src="../images/mobs/Antelope.png" width="64"> |
-| Deer_Doe | <img src="../images/mobs/Deer_Doe.png" width="64"> |
-| Deer_Stag | <img src="../images/mobs/Deer_Stag.png" width="64"> |
-| Wildlife | <img src="../images/mobs/Wildlife.png" width="64"> |
+| Hyena | <img src="../images/Hyena.png" width="48"> |
+| Leopard_Snow | <img src="../images/Leopard_Snow.png" width="48"> |
+| Lizard_Sand | <img src="../images/Lizard_Sand.png" width="48"> |
+| Raptor_Cave | <img src="../images/Raptor_Cave.png" width="48"> |
+| Slug_Magma | <img src="../images/Slug_Magma.png" width="48"> |
+| Tiger_Sabertooth | <img src="../images/Tiger_Sabertooth.png" width="48"> |
+| Toad_Rhino | <img src="../images/Toad_Rhino.png" width="48"> |
+| Toad_Rhino_Magma | <img src="../images/Toad_Rhino_Magma.png" width="48"> |
+| Wolf_Black | <img src="../images/Wolf_Black.png" width="48"> |
+| Wolf_Outlander_Priest | <img src="../images/Wolf_Outlander_Priest.png" width="48"> |
+| Wolf_Outlander_Sorcerer | <img src="../images/Wolf_Outlander_Sorcerer.png" width="48"> |
+| Wolf_White | <img src="../images/Wolf_White.png" width="48"> |
+| Bison | <img src="../images/Bison.png" width="48"> |
+| Boar | <img src="../images/Boar.png" width="48"> |
+| Cow | <img src="../images/Cow.png" width="48"> |
+| Horse | <img src="../images/Horse.png" width="48"> |
+| Warthog | <img src="../images/Warthog.png" width="48"> |
+| Fen_Stalker | <img src="../images/Fen_Stalker.png" width="48"> |
+| Hound_Bleached | <img src="../images/Hound_Bleached.png" width="48"> |
+| Moose_Bull | <img src="../images/Moose_Bull.png" width="48"> |
+| Moose_Cow | <img src="../images/Moose_Cow.png" width="48"> |
+
+---
+
+## 🟩 Light Hide
+
+| Mob | Preview |
+|---|---|
+| Molerat | <img src="../images/Molerat.png" width="48"> |
+| Rat | <img src="../images/Rat.png" width="48"> |
+| Camel | <img src="../images/Camel.png" width="48"> |
+| Chicken | <img src="../images/Chicken.png" width="48"> |
+| Chicken_Desert | <img src="../images/Chicken_Desert.png" width="48"> |
+| Goat | <img src="../images/Goat.png" width="48"> |
+| Mouflon | <img src="../images/Mouflon.png" width="48"> |
+| Pig | <img src="../images/Pig.png" width="48"> |
+| Rabbit | <img src="../images/Rabbit.png" width="48"> |
+| Ram | <img src="../images/Ram.png" width="48"> |
+| Sheep | <img src="../images/Sheep.png" width="48"> |
+| Skrill | <img src="../images/Skrill.png" width="48"> |
+| Turkey | <img src="../images/Turkey.png" width="48"> |
+| Chicken_Undead | <img src="../images/Chicken_Undead.png" width="48"> |
+| Cow_Undead | <img src="../images/Cow_Undead.png" width="48"> |
+| Pig_Undead | <img src="../images/Pig_Undead.png" width="48"> |
+| Antelope | <img src="../images/Antelope.png" width="48"> |
+| Deer_Doe | <img src="../images/Deer_Doe.png" width="48"> |
+| Deer_Stag | <img src="../images/Deer_Stag.png" width="48"> |
+| Wildlife | <img src="../images/Wildlife.png" width="48"> |
 
 ---
 
